@@ -14,15 +14,15 @@ min = "0.116.0"
 description = "A Tech Blog"
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Scoreboard!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+The ratio? Simple: Pushups divided by drinks. Higher is better, unless you're Tank, then it's just terrifying.
+Now, get out there and get that ratio so high, even Kevin will be impressed (maybe).
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Hot Newz'
+
 
 # Lists parameters
 paginationSize = 100
